@@ -65,6 +65,7 @@ Turns your AI assistant into a senior SRE that systematically diagnoses AWS prod
 | ALB | Health check failures, 5xx errors, target group issues |
 | CloudWatch | Log analysis, metric anomalies, alarm configuration |
 | IAM | Permission errors, role assumption failures |
+| VPC | Security groups, network ACLs, flow logs |
 
 ## Why This Prompt Wins
 
@@ -78,4 +79,7 @@ Turns your AI assistant into a senior SRE that systematically diagnoses AWS prod
 ```
 prompt.md          — The complete, copy-paste-ready prompt
 README.md          — This file
+.gitignore         — Git ignore rules
+LICENSE            — MIT License
+logo.png           — Project logo
 ```
